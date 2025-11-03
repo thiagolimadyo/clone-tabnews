@@ -1,8 +1,8 @@
 function Home() {
   return (
     <>
-      <h1>Spectator News</h1>
-      <p>Seja vem vindo!</p>
+      <h1>The Spectator News!!!!!!!!!!!!</h1>
+      <p>Bem vindo!</p>
     </>
   );
 }
